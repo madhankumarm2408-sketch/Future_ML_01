@@ -4,6 +4,9 @@ This repository contains a Machine Learning time-series forecasting model.
 
 The goal of this project is to analyze historical retail sales data, identify seasonal trends, and accurately project future revenue. By predicting future demand, this system acts as a decision-support tool to help businesses optimize their inventory management, staffing schedules, and financial planning.
 
+**Dataset filename : Sample - Superstore.csv**
+
+
 **The Architecture**
 
 This project follows a robust end-to-end data science lifecycle, designed to handle the complexities of time-series data:
